@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>My WordPress</title>
-	<atom:link href="https://dradz5.github.io/mywordpres/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dradz5.github.io/mywordpres</link>
+	<title>
+	Các phản hồi luận về: Specialized Enduro Elite Carbon 27.5″	</title>
+	<atom:link href="https://dradz5.github.io/mywordpres/san-pham/specialized-enduro-elite-carbon-27-5%E2%80%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dradz5.github.io/mywordpres/san-pham/specialized-enduro-elite-carbon-27-5%e2%80%b3/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 09:09:03 +0000</lastBuildDate>
-	<language>vi</language>
+	<lastBuildDate>Tue, 11 Oct 2022 09:05:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
