@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
-	<atom:link href="https://dradz5.github.io/mywordpres/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dradz5.github.io/mywordpres</link>
+	Các phản hồi luận về: Ludovic Péron Trek Bicycle	</title>
+	<atom:link href="https://dradz5.github.io/mywordpres/san-pham/ludovic-peron-trek-bicycle/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dradz5.github.io/mywordpres/san-pham/ludovic-peron-trek-bicycle/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 09:48:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 09:43:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
